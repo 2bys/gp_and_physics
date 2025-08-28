@@ -1,0 +1,11 @@
+jax
+matplotlib
+numpy
+tueplots
+jaxtyping
+beartype
+IPython
+ipykernel
+ipywidgets
+ipympl
+plum-dispatch
