@@ -1,6 +1,6 @@
 # GP and Physics
 
-## An objective installation guide
+## An subjective installation guide
 
 I prefer using `uv` for a virtual environment.
 
